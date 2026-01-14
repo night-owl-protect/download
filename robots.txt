@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://night-owl-protect.github.io/sitemap.xml
